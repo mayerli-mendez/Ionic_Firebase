@@ -1,7 +1,10 @@
 # PruebaMovil
 
-Integrantes: Manuel Aqui, Mayerli Mendez, Leoni Guambo, Jorge Ortiz
-Colaborador: Juan Pablo Zaldumbide  (jzaldumbide@gmail.com)
+Integrantes:
+<li>Manuel Aqui</li> 
+<li>Mayerli Mendez</li> 
+<li>Leoni Guambo</li> 
+<li>Jorge Ortiz</li> 
 
 El ejercicio consiste en implementar una aplicación móvil con IONIC que permita levantar información y guardarla en una Base de Datos (FIREBASE).
 
